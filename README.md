@@ -11,7 +11,7 @@ While comparing the district summaries between PyCitySchools and PyCitySchools_C
 
 ### PyCitySchools
 
-[!PyCitySchools](DistrictSummary - PyCitySchools.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/DistrictSummary%20-%20PyCitySchools.png)
 
 
 ### PyCitySchools_Challenge
