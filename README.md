@@ -25,15 +25,16 @@ While comparing the district summaries between PyCitySchools and PyCitySchools_C
 # 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 
 
-4. How does replacing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type? 
+# 4. How does replacing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type? 
 
 ### Math and Reading Scores by Grade
 
 ### PyCitySchools
 
 ![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/Math%20%26%20reading%20scores_before.png)
-
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/Overall%20passing%25_before.png)
 
 ### PyCitySchools_Challenge
 
 ![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/Math%20%26%20reading%20scores_challenge.png)
+![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/Overall%20passing%25_challenge.png)
