@@ -1,5 +1,10 @@
 # School_District_Analysis
 
+
+This analysis showed the affects of changing Thomas High School ninth-grade scores to "NaN."<br />
+PyCitySchools: original data<br />
+PyCitySchools_Challenge: Thomas High School ninth-grade scores changed to "NaN."<br />
+
 # Resources
 
 Data Source: schools_complete.csv, students_complete.csv Software: Python 3.8, Jupyter
@@ -19,7 +24,10 @@ PyCitySchools_Challenge
 
 2. How is the school summary affected?
 
-The averages and percentages varied for Thomas High School.
+The averages and percentages varied for Thomas High School. The percent averages for reading, math and overall was affected.<br />
+The affect was the following: Thomas Highschool scores varied in math, reading and overall passing %. <br />
+PyCitySchools - 93% Math, 97% Reading, 91% Overall<br />
+PyCitySchools_Challenge - 67% Math, 70% Reading, 65% Overall<br />
 
 PyCitySchools
 
@@ -54,6 +62,10 @@ PyCitySchools_Challenge
 
 Scores by School Size
 
+The school size medium changed in math, reading and overall passing.<br />
+PyCitySchools - 94% Math, 97% Reading, 91% Overall<br />
+PyCitySchools_Challenge - 88% Math, 91% Reading, 85% Overall<br />
+
 PyCitySchools
 
 ![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/size%20summary_before.png)
@@ -66,6 +78,10 @@ Scores by School Spending <br />
 The spending remained the same.
 
 Scores by School Type
+
+Since Thomas High School is a Charter School Type, the %Passing in Math, Reading and Overall dropped.<br />
+PyCitySchools - 94% Math, 97% Reading, 90% Overall<br />
+PyCitySchools_Challenge - 90% Math, 93% Reading, 87% Overall <br />
 
 PyCitySchools
 
