@@ -21,6 +21,12 @@ While comparing the district summaries between PyCitySchools and PyCitySchools_C
 
 # 2. How is the school summary affected?
 
+### PyCitySchools
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/Original%20School%20Summary.png)
+
+### PyCitySchools_Challenge
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/Changed%20School%20Summary.png)
+
 
 # 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 
