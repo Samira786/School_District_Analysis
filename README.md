@@ -60,7 +60,7 @@ PyCitySchools_Challenge
 
 ![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/size%20summary%20challenge.png)
 
-Scores by School Spending
+Scores by School Spending <br />
 The spending remained the same.
 
 Scores by School Type
