@@ -42,3 +42,9 @@ PyCitySchools_Challenge - 67% Math, 70% Reading, 65% Overall
 
 ![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/Math%20%26%20reading%20scores_challenge.png)
 ![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/Overall%20passing%25_challenge.png)
+
+### Scores by School Size
+
+### PyCitySchools
+
+### PyCitySchools_Challenge
