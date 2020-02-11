@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 
 This analysis showed the affects of changing Thomas High School ninth-grade scores to "NaN."<br />
