@@ -22,9 +22,11 @@ PyCitySchools_Challenge
 The averages and percentages varied for Thomas High School.
 
 PyCitySchools
+
 ![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/Original%20School%20Summary.png)
 
 PyCitySchools_Challenge
+
 ![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/Changed%20School%20Summary.png)
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
@@ -34,9 +36,9 @@ Thomas High School's performance dropped as shown above.
 
 Math and Reading Scores by Grade
 
-The affect was the following: Thomas Highschool scores varied in math, reading and overall passing %.
-PyCitySchools - 93% Math, 97% Reading, 91% Overall
-PyCitySchools_Challenge - 67% Math, 70% Reading, 65% Overall
+The affect was the following: Thomas Highschool scores varied in math, reading and overall passing %.<br />
+PyCitySchools - 93% Math, 97% Reading, 91% Overall<br />
+PyCitySchools_Challenge - 67% Math, 70% Reading, 65% Overall<br />
 
 PyCitySchools
 
