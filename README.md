@@ -11,21 +11,21 @@ While comparing the district summaries between PyCitySchools and PyCitySchools_C
 
 PyCitySchools
 
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/DistrictSummary%20-%20PyCitySchools.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/DistrictSummary%20-%20PyCitySchools.png)
 
 PyCitySchools_Challenge
 
-![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/DistrictSummary%20-%20PyCitySchools_Challenge.png)
+![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/images/DistrictSummary%20-%20PyCitySchools_Challenge.png)
 
 2. How is the school summary affected?
 
 The averages and percentages varied for Thomas High School.
 
 PyCitySchools
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/Original%20School%20Summary.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/Original%20School%20Summary.png)
 
 PyCitySchools_Challenge
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/Changed%20School%20Summary.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/Changed%20School%20Summary.png)
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 Thomas High School's performance dropped as shown above.
@@ -40,23 +40,23 @@ PyCitySchools_Challenge - 67% Math, 70% Reading, 65% Overall
 
 PyCitySchools
 
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/Math%20%26%20reading%20scores_before.png)
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/Overall%20passing%25_before.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/Math%20%26%20reading%20scores_before.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/Overall%20passing%25_before.png)
 
 PyCitySchools_Challenge
 
-![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/Math%20%26%20reading%20scores_challenge.png)
-![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/Overall%20passing%25_challenge.png)
+![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/images/Math%20%26%20reading%20scores_challenge.png)
+![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/images/Overall%20passing%25_challenge.png)
 
 Scores by School Size
 
 PyCitySchools
 
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/size%20summary_before.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/size%20summary_before.png)
 
 PyCitySchools_Challenge
 
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/size%20summary%20challenge.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/size%20summary%20challenge.png)
 
 Scores by School Spending
 The spending remained the same.
@@ -65,8 +65,8 @@ Scores by School Type
 
 PyCitySchools
 
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/size%20summary_before.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/size%20summary_before.png)
 
 PyCitySchools_Challenge
 
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/size%20summary%20challenge.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/size%20summary%20challenge.png)
