@@ -69,8 +69,8 @@ Scores by School Type
 
 PyCitySchools
 
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/size%20summary_before.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/SchoolTypeOriginal.png)
 
 PyCitySchools_Challenge
 
-![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/size%20summary%20challenge.png)
+![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/images/SchoolTypeChanged.png)
