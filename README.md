@@ -29,6 +29,10 @@ While comparing the district summaries between PyCitySchools and PyCitySchools_C
 
 ### Math and Reading Scores by Grade
 
+The affect was the following: Thomas Highschool scores varied in math, reading and overall passing %.
+PyCitySchools - 93% Math, 97% Reading, 91% Overall
+PyCitySchools_Challenge - 67% Math, 70% Reading, 65% Overall
+
 ### PyCitySchools
 
 ![PyCitySchools](https://github.com/Samira786/School_District_Analysis/blob/master/Math%20%26%20reading%20scores_before.png)
