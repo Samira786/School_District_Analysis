@@ -16,7 +16,7 @@ While comparing the district summaries between PyCitySchools and PyCitySchools_C
 
 ### PyCitySchools_Challenge
 
-
+![PyCitySchools_Challenge](https://github.com/Samira786/School_District_Analysis/blob/master/DistrictSummary%20-%20PyCitySchools_Challenge.png)
 
 
 How is the school summary affected?
